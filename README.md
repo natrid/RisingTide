@@ -1,4 +1,4 @@
 RisingTide
 ==========
 
-Lukioaikoina tehty tasohyppelypeli käyttäen Jyväskylän Yliopiston jypeli kirjastoa.
+Lukioaikoina ohjelmoin tasohyppelypelin kielellä C# käyttäen Jyväskylän Yliopiston jypeli kirjastoa. Kyseessä on JYU:n Ohjelmointi 1 harkkatyö.
