@@ -1,4 +1,4 @@
 RisingTide
 ==========
 
-Lukioaikoina tehty tasohyppelypeli käyttäen jypeli kirjastoa.
+Lukioaikoina tehty tasohyppelypeli käyttäen Jyväskylän Yliopiston jypeli kirjastoa.
